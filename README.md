@@ -1,19 +1,4 @@
 ---
-## 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-
-### 1. Estadísticas Generales
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-nombre-de-usuario&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
-
-### 2. Lenguajes Más Usados
-
-![Lenguajes de GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-nombre-de-usuario&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
 # 👋 ¡Hola, soy [Alejandro]!
 
 Alejandro | Software Developer
@@ -50,4 +35,3 @@ Inteligencia Artificial: 🤖
     <img alt="Activity Trends of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="815" height="auto">
   </picture>
 </a>
-----

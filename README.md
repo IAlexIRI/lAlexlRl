@@ -1,7 +1,16 @@
-# 👋 ¡Hola, soy [Tu Nombre]!
+# 👋 ¡Hola, soy [Alejandro]!
 
-Soy un [Tu Rol Principal] apasionado por [Tu Área de Interés].
+Alejandro | Software Developer
 
+Creador de software con dominio en lenguajes de alto rendimiento como C++ y Python. Mi experiencia profesional se complementa con:
+
+Desarrollo: Entorno de programación centralizado en Visual Studio Code.
+
+Gestión de Proyectos: Metodología ágil y seguimiento de tareas mediante Trello.
+
+Diseño: Habilidades en la creación de contenido visual y prototipado rápido con Canva.
+
+Especialización: Certificados en el diseño e implementación de sistemas de Inteligencia Artificial.
 ---
 
 ## ⚙️ Tecnologías y Herramientas
@@ -15,7 +24,7 @@ Soy un [Tu Rol Principal] apasionado por [Tu Área de Interés].
 
 ---
 
-## 📫 Conéctate Conmigo
+
 
 [LinkedIn](Tu_URL_de_LinkedIn) | [Tu Web/Portafolio](Tu_URL_de_Portafolio)<!-- Copy-paste in your Readme.md file -->
 

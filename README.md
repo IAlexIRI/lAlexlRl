@@ -14,10 +14,17 @@ Especialización: Certificados en el diseño e implementación de sistemas de In
 ---
 
 ## ⚙️ Tecnologías y Herramientas
+C++: 🛠️
 
-![React](URL_del_Icono_de_React) 
-![Node.js](URL_del_Icono_de_Node)
+Python: 🐍
 
+Visual Studio Code: 💻
+
+Trello: 📋
+
+Canva: 🎨
+
+Inteligencia Artificial: 🤖
 ---
 
 ## 📈 Mis Estadísticas en GitHub
